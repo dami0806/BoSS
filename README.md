@@ -58,12 +58,14 @@ OCR과 객체 탐지 기술을 이용한 여행 기록 어플리케이션
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <br>  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> -->
 
-## 4. 기타 링크
+## 4. 시현 영상 
+https://drive.google.com/file/d/1V4LoVwxW_JVo0qTIjHeHFHovg5RknROd/view?usp=drive_link
 
+## 5. 기타 링크
 [<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">](https://boss-tuk.atlassian.net/jira/software/projects/BC/boards/2)
 [<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">](https://www.figma.com/file/UR4AclBJLUuO94v4Q3Srtz/TraveLog-prototype?node-id=15%3A571&t=Bt78joOQTb0oOTTF-1)
 
-## 5. 팀원 
+## 6. 팀원 
 | 이름 | 이승현 | 이정동 | 박준희 | 박다미 |
 | --- | --- | --- | --- | --- |
 | GitHub | [@hyuuuun](https://github.com/hyuuuun) | [@ljdongz](https://github.com/ljdongz) | [@junhxx](https://github.com/junhxx) | [@dami0806](https://github.com/dami0806) |
